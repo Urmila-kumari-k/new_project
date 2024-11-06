@@ -1,4 +1,4 @@
-# CampusX - Frontend
+# new_project-frontend
 
 ---
 ## Preview
